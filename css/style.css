@@ -1268,7 +1268,7 @@ select {
 }
 
 .ba-main .ba-slider__prev {
-  left: -10px;
+  left: 10px;
 }
 
 .ba-main .ba-slider__next {
